@@ -40,12 +40,12 @@
 
 1. **Descargar o Clonar** el repositorio:
 
-   ```BASH git clone https://github.com/tu-usuario/juego-numero-magico.git
+```BASH
+   (git clone https://github.com/DanaYael/Ejercicio.N-merosMagicos.git)
+```
 
-   ```
-
-   Abre el archivo index.html en tu navegador favorito.
-   ¡Empieza a jugar y diviértete! 🎉
+Abre el archivo index.html en tu navegador favorito.
+¡Empieza a jugar y diviértete! 🎉
 
 💌 Autor
 Creado con 💖 por Dana.
