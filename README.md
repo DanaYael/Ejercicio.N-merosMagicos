@@ -41,7 +41,7 @@
 1. **Descargar o Clonar** el repositorio:
 
 ```BASH
-   (git clone https://github.com/DanaYael/Ejercicio.N-merosMagicos.git)
+   git clone (https://github.com/DanaYael/Ejercicio.N-merosMagicos.git)
 ```
 
 Abre el archivo index.html en tu navegador favorito.
